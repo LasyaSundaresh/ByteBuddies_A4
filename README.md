@@ -26,4 +26,4 @@ ByteBuddies_A4 is a hackathon project combining **chatbot intelligence**, **sent
 
 ---
 
-## 📂 Project Structure
+
