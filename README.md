@@ -1,4 +1,4 @@
-# 📚 ByteBuddies_A4 – Multi-Feature AI Assistant
+# 📚 ByteBuddies_A4 – Multi-Feature AI Assistant ChatBot
 
 ByteBuddies_A4 is a hackathon project combining **chatbot intelligence**, **sentiment analysis**, **book and music recommendations**, and **speech-to-text** functionality into a single interactive AI platform.
 
